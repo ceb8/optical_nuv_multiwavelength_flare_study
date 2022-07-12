@@ -1,0 +1,11 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: KID, datatype: int64}
+# - {name: GID, datatype: int64}
+# - {name: RA, datatype: float64}
+# - {name: Dec, datatype: float64}
+# - {name: SC overlap, datatype: string}
+# schema: astropy-2.0
+KID GID RA Dec "SC overlap"
+9592705 3153788713082824497 293.71646100000004 46.226655 "[9, 10]"
